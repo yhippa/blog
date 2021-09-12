@@ -2,10 +2,9 @@ baseURL = 'https://yhippa.dev/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "paper"
-disqusShortname = 'Yhippa'   # add disqus comments
 
 [params]
-  disableHLJS = true                         # don't use highlight.js
-  twitter = 'Yhippa'                # twitter.com/YOUR_TWITTER_ID
-  github = 'yhippa'                  # github.com/YOUR_GITHUB_ID
-  instagram = 'yhippa'            # instagram.com/YOUR_INSTAGRAM_ID
+  disableHLJS = true
+  twitter = 'Yhippa'
+  github = 'yhippa'
+  instagram = 'yhippa'
