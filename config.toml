@@ -1,6 +1,6 @@
 baseURL = 'https://yhippa.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'yhippa.dev'
 theme = "paper"
 
 [params]
